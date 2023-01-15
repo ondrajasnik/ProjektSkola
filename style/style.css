@@ -1,0 +1,167 @@
+.topnav {
+  background-color: rgb(51, 29, 29);
+  overflow: hidden;
+  border-radius: 8px;
+  box-shadow: 0 0 0 3px rgb(43, 24, 24);
+}
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 80px;
+  text-decoration: none;
+  font-size: 20px;
+}
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+  border-radius: 2px;
+}
+.topnav a.active {
+  background-color: #0bbac0;
+  color: whitesmoke;
+  border-radius: 2px;
+}
+.vertical-menu {
+  width: 150px;
+  overflow: hidden;
+  border-radius: 8px;
+}
+.vertical-menu a {
+  background-color: rgb(75, 42, 42);
+  color: whitesmoke;
+  display: block;
+  padding: 35px;
+  text-decoration: none;
+  border-radius: 2px;
+}
+.vertical-menu a:hover {
+  background-color: #ccc;
+  color: black;
+  border-radius: 3px;
+}
+.vertical-menu a.active {
+  background-color: rgb(90, 55, 55);
+  color: whitesmoke;
+  border-radius: 3px;
+}
+h1.uvod {
+  font-size: 50px;
+  color: black;
+  font-style: oblique;
+  position: absolute;
+  top: 6%;
+  left: 2%;
+}
+h1 {
+  color: black;
+  font-style: oblique;
+  font-size: 40px;
+}
+h2 {
+  font-kerning: normal;
+  position: absolute;
+  top: 20%;
+  left: 10%;
+}
+h3 {
+  font-kerning: normal;
+  position: absolute;
+  top: 37%;
+  left: 10%;
+}
+h3.prvniA {
+  font-kerning: normal;
+  position: absolute;
+  top: 37%;
+  left: 10%;
+}
+h3.druhaA {
+  font-kerning: normal;
+  position: absolute;
+  top: 51%;
+  left: 10%;
+}
+ul.Atext1 {
+  position: absolute;
+  top: 44%;
+  left: 10%;
+}
+footer.A {
+  position: absolute;
+  top: 61%;
+  left: 0%;
+  width: 100%;
+}
+footer.A1 {
+  position: absolute;
+  top: 51%;
+  left: 0%;
+  width: 100%;
+}
+footer.B {
+  position: absolute;
+  top: 69%;
+  left: 0%;
+  width: 100%;
+}
+footer.C {
+  position: absolute;
+  top: 47%;
+  left: 0%;
+  width: 100%;
+}
+footer.D {
+  position: absolute;
+  top: 105%;
+  left: 0%;
+  width: 100%;
+}
+footer.E {
+  position: absolute;
+  top: 83%;
+  left: 0%;
+  width: 100%;
+}
+p.prvni {
+  font-size: large;
+  font-weight: 200px;
+  width: 80%;
+  text-align: justify;
+  position: absolute;
+  top: 25%;
+  left: 10%;
+}
+p.druhaA {
+  font-size: large;
+  font-weight: 200px;
+  width: 80%;
+  text-align: justify;
+  position: absolute;
+  top: 40%;
+  left: 10%;
+}
+p.tretiA {
+  font-size: large;
+  font-weight: 200px;
+  width: 80%;
+  text-align: justify;
+  position: absolute;
+  top: 54%;
+  left: 10%;
+}
+img.linux {
+  position: absolute;
+  top: 40%;
+  left: 10%;
+}
+img.windows {
+  position: absolute;
+  top: 40%;
+  left: 25%;
+}
+img.ubuntu {
+  position: absolute;
+  top: 40%;
+  left: 42%;
+}
